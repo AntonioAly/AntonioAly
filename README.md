@@ -8,7 +8,7 @@
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style-for-the-badge&logo-html5&logoColor=white" /> <img align="center" alt="css" >
 
-Alyssom GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioAly&show_icons=true&theme=radical) 
+![Alyssom GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioAly&show_icons=true&theme=radical) 
 
 
 
